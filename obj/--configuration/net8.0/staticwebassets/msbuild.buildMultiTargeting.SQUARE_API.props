@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SQUARE_API.props" />
+</Project>
